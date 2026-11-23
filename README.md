@@ -1,21 +1,54 @@
-# 💫 About Me:
-Hey there! I’m Fatime, completing my Bachelor of Science (Honours) in Computer Science with a specialization in Data Analytics at Asia Pacific University. I genuinely enjoy working with data whether it’s cleaning messy datasets, building forecasting models, or creating dashboards that help people make better decisions. I recently completed a Data Analyst internship where I spent most of my time optimizing SQL scripts, automating data validation processes, and building Power BI dashboards for client projects. The repositories here showcase work I’ve built over the past year forecasting systems using real economic data, ETL pipelines processing large transaction volumes, and machine learning models analysis. I don’t claim they’re perfect, but they work, they’re documented, and they solve real problems. I competed in the SAS Curiosity Cup international data analytics competition and earned recognition on the Vice Chancellor’s List for academic excellence. When I’m not coding, I serve as Head of Secretary for my university’s Women’s Empowerment Club, managing documentation and communications. I’m always open to discussing data projects, sharing insights about breaking into the Tech field, or collaborating on interesting problems. Let’s connect!<br><br><br><br>#Passionate About #Data #AI #ML 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abakar-sougui-fatime) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souguifatimeabakar@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abakar-Fatime&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abakar-Fatime&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abakar-Fatime&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h1 align="center">Abakar Sougui Fatime</h1>
+<p align="center"><b>Data Scientist &amp; Data Engineer</b> · experimentation · causal inference · machine learning · LLM applications</p>
+<p align="center">
+  <a href="https://linkedin.com/in/abakar-sougui-fatime"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:souguifatimeabakar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/N'Djamena%2C%20Chad-open%20to%20relocation-2ea44f?style=flat" alt="Location">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abakar-Fatime&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+- **Network & Data Engineer Intern at Société de Raffinage de N'Djamena** (Chad's national oil refinery): I manage the company's data infrastructure and its network.
+- **BSc (Hons) Computer Science, Data Analytics** from Asia Pacific University, Malaysia (2026), on the Vice Chancellor's List three years in a row.
+- Previously a **Data Analyst Intern at Chinasoft Interfusion**, where I validated 50+ SQL scripts for a core banking data migration and built Power BI dashboards for stakeholders.
+- I build end-to-end data projects that are **tested, documented and measured**, and I report results honestly, including what didn't work.
+- I work in **English and French**.
+
+### Featured projects
+
+| Project | What it does | Result |
+| --- | --- | --- |
+| **[LIVE Experimentation Lab](https://github.com/Abakar-Fatime/live-experimentation-lab)** | A/B testing (CUPED, SRM, guardrails), causal inference (DiD, IPW, AIPW), LightGBM uplift models, metric monitoring and a RAG copilot, with a custom web dashboard | Every estimate checked against simulated truth: 21/21 true effects inside the 95% CIs; copilot retrieval hit@3 100% |
+| **[Transaction Fraud Detection](https://github.com/Abakar-Fatime/transaction-fraud-detection)** | Fraud pipeline on ~1M mobile-money transactions (PaySim): point-in-time features, model comparison, evasion stress test, FastAPI scoring with SHAP reasons | LightGBM PR-AUC 0.987; caught 104 of 105 test frauds with 163 alerts |
+| **[Ask Your Warehouse](https://github.com/Abakar-Fatime/ask-your-warehouse)** | Text-to-SQL agent on a free local LLM (Ollama) with a semantic catalog, self-repair loop and SQL safety layers | 77.5% execution accuracy on a 40-question benchmark; 99 automated tests |
+| **[Streaming Data Warehouse](https://github.com/Abakar-Fatime/streaming-warehouse)** | PySpark Structured Streaming pipeline turning live-stream events into a star-schema warehouse with data-quality quarantine | Output matched ground truth exactly on a 20,000-event run (all 419 duplicates removed) |
+| **[EconoForecast](https://github.com/Abakar-Fatime/econoforecast)** | Final year project: inflation forecasting for 266 economies, ML vs time-series models, Streamlit dashboard | Random Forest with engineered features: R² 0.56, MAE 3.6 pp |
+
+### Tech stack
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Data engineering:** ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**ML & statistics:** ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-2E7D32?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-1F6FEB?style=flat) ![statsmodels](https://img.shields.io/badge/statsmodels-4B5563?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**AI & apps:** ![Ollama](https://img.shields.io/badge/Ollama%20(local%20LLMs)-000000?style=flat&logo=ollama&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**BI & tools:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-1E4F91?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Currently
+
+- Learning **Microsoft Azure AI**, building AI agents with Microsoft Foundry
+- Building new projects across finance, telecom and other industries, combining data engineering, ML and LLMs
+
+### Recognition
+
+- Vice Chancellor's List, Asia Pacific University: 2023, 2024, 2025
+- Represented APU at the **SAS Curiosity Cup 2025** (international data analytics competition)
+- **Alphathon Hackathon 2025:** built an AI-powered prototype in 24 hours
+- Head of Secretary, APU Women's Empowerment Club
+
+---
+<p align="center">Open to data science, data engineering and analytics roles · <a href="https://linkedin.com/in/abakar-sougui-fatime">Let's connect</a></p>
